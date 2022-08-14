@@ -77,6 +77,9 @@ gb lang =
         Polish ->
             "Polish"
 
+        Greek ->
+            "Greek"
+
 
 de : Language -> String
 de lang =
@@ -141,6 +144,8 @@ de lang =
         Polish ->
             "Polnisch"
 
+        Greek ->
+            "Greek"
 
 fr : Language -> String
 fr lang =
@@ -204,3 +209,6 @@ fr lang =
 
         Polish ->
             "Polonais"
+
+        Greek ->
+            "Grec"
